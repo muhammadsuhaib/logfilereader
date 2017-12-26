@@ -1,0 +1,72 @@
+################################################
+# This is the AirStation log File.
+#	Host Name	= AP84AFEC866D20
+#	Model		= WAPM-1266R Ver1.05
+#	LAN MAC		= 84:AF:EC:86:6D:20
+#	Date		= 2017/01/01
+################################################
+
+2017/01/01 00:13:11   WIRELESS wl1.0 (2.4GHz): DisAssociated User - e0:b9:a5:dd:0b:9e
+2017/01/01 00:13:07   WIRELESS wl1.0 (2.4GHz): Associated User - e0:b9:a5:dd:0b:9e
+2017/01/01 00:13:05   WIRELESS wl1.0 (2.4GHz): DisAssociated User - e0:b9:a5:dd:0b:9e
+2017/01/01 00:13:01   WIRELESS wl1.0 (2.4GHz): Associated User - e0:b9:a5:dd:0b:9e
+2017/01/01 00:12:59   WIRELESS wl1.0 (2.4GHz): DisAssociated User - e0:b9:a5:dd:0b:9e
+2017/01/01 00:12:55   WIRELESS wl1.0 (2.4GHz): Associated User - e0:b9:a5:dd:0b:9e
+2017/01/01 00:12:54   WIRELESS wl1.0 (2.4GHz): DisAssociated User - e0:b9:a5:dd:0b:9e
+2017/01/01 00:12:50   WIRELESS wl1.0 (2.4GHz): Associated User - e0:b9:a5:dd:0b:9e
+2017/01/01 00:12:04   WIRELESS wl1.0 (2.4GHz): DisAssociated User - e0:b9:a5:dd:0b:9e
+2017/01/01 00:11:44       AUTH wl1.0 (2.4GHz): Authenticated (WPA2-PSK) User - e0:b9:a5:dd:0b:9e
+2017/01/01 00:11:44   WIRELESS wl1.0 (2.4GHz): Associated User - e0:b9:a5:dd:0b:9e
+2017/01/01 00:11:38   WIRELESS wl1.0 (2.4GHz): DisAssociated User - e0:b9:a5:dd:0b:9e
+2017/01/01 00:11:37       AUTH wl1.0 (2.4GHz): Authenticated (WPA2-PSK) User - e0:b9:a5:dd:0b:9e
+2017/01/01 00:11:37   WIRELESS wl1.0 (2.4GHz): Associated User - e0:b9:a5:dd:0b:9e
+2017/01/01 00:11:28   WIRELESS wl1.0 (2.4GHz): DisAssociated User - e0:b9:a5:dd:0b:9e
+2017/01/01 00:11:12       AUTH wl1.0 (2.4GHz): Authenticated (WPA2-PSK) User - e0:b9:a5:dd:0b:9e
+2017/01/01 00:11:12   WIRELESS wl1.0 (2.4GHz): Associated User - e0:b9:a5:dd:0b:9e
+2017/01/01 00:09:59   WIRELESS wl0 (5GHz): Start sending beacon
+2017/01/01 00:09:55   WIRELESS wl0 (5GHz): Switch Channel 48 / 80 MHz
+2017/01/01 00:09:54   WIRELESS AutoChannel selected 48ch/80MHz on 5GHz.
+2017/01/01 00:09:41   WIRELESS wl1 (2.4GHz): Start sending beacon
+2017/01/01 00:09:36   WIRELESS wl1 (2.4GHz): Switch Channel 2 / 20 MHz
+2017/01/01 00:09:36   WIRELESS AutoChannel selected 2ch/20MHz on 2.4GHz.
+2017/01/01 00:09:36   WIRELESS Detect interference(50per) on 6ch(2.4GHz).
+2017/01/01 00:09:36   WIRELESS Detect interference(67per) on 1ch(2.4GHz).
+2017/01/01 00:09:22  CONFIGURE WIRELESS SSID
+2017/01/01 00:07:18   WIRELESS wl0 (5GHz): Start sending beacon
+2017/01/01 00:07:14   WIRELESS wl0 (5GHz): Switch Channel 48 / 80 MHz
+2017/01/01 00:07:13   WIRELESS AutoChannel selected 48ch/80MHz on 5GHz.
+2017/01/01 00:07:00   WIRELESS wl1 (2.4GHz): Start sending beacon
+2017/01/01 00:06:55   WIRELESS wl1 (2.4GHz): Switch Channel 7 / 20 MHz
+2017/01/01 00:06:55   WIRELESS AutoChannel selected 7ch/20MHz on 2.4GHz.
+2017/01/01 00:06:55   WIRELESS Detect interference(50per) on 11ch(2.4GHz).
+2017/01/01 00:06:55   WIRELESS Detect interference(61per) on 1ch(2.4GHz).
+2017/01/01 00:06:40  CONFIGURE WIRELESS SSID
+2017/01/01 00:03:19      DHCPC add resolve
+2017/01/01 00:03:19      DHCPC Info : LEASETIME(43200) , RENEWALTIME(21600) , REBINDTIME(37800)
+2017/01/01 00:03:19      DHCPC Info : DHCPSNAME = 
+2017/01/01 00:03:19      DHCPC Info : DHCPSHADDR = 00:1A:EB:3F:8A:9B
+2017/01/01 00:03:19      DHCPC Info : DHCPCHADDR = 84:AF:EC:86:6D:20
+2017/01/01 00:03:19      DHCPC Info : DHCPSIADDR = 0.0.0.0
+2017/01/01 00:03:19      DHCPC Info : DHCPGIADDR = 0.0.0.0
+2017/01/01 00:03:19      DHCPC Info : DHCPSID = 192.168.11.1
+2017/01/01 00:03:19      DHCPC Info : DNS[1] = 192.168.11.1
+2017/01/01 00:03:19      DHCPC Info : Default Gateway = 192.168.11.1
+2017/01/01 00:03:19      DHCPC Info : Subnet Mask = 255.255.255.0
+2017/01/01 00:03:19      DHCPC Info : IP Address = 192.168.11.241
+2017/01/01 00:03:19      DHCPC DHCP_ACK received from  (192.168.11.1) 
+2017/01/01 00:03:19      DHCPC broadcasting DHCP_REQUEST for 192.168.11.241 
+2017/01/01 00:03:19      DHCPC DHCP_OFFER received from  (192.168.11.1) 
+2017/01/01 00:03:18      DHCPC broadcasting second DHCP_DISCOVER 
+2017/01/01 00:02:19      WIRED et0: link up(100 Mbps Full duplex)
+2017/01/01 00:01:13      DHCPC Request: broadcasting DHCP_DISCOVER 
+2017/01/01 00:01:13   WIRELESS wl0 (5GHz): Start sending beacon
+2017/01/01 00:01:08   WIRELESS wl0 (5GHz): Switch Channel 48 / 80 MHz
+2017/01/01 00:01:08   WIRELESS AutoChannel selected 48ch/80MHz on 5GHz.
+2017/01/01 00:00:54   WIRELESS wl1 (2.4GHz): Start sending beacon
+2017/01/01 00:00:49   WIRELESS wl1 (2.4GHz): Switch Channel 2 / 20 MHz
+2017/01/01 00:00:49   WIRELESS AutoChannel selected 2ch/20MHz on 2.4GHz.
+2017/01/01 00:00:49   WIRELESS Detect interference(62per) on 1ch(2.4GHz).
+2017/01/01 00:00:33        ADT Start USB watcher for Remote access config.
+2017/01/01 00:00:33        ADT Startup Buffalo Admin Tools Daemon Ver.3.0.0
+2017/01/01 00:00:13      DHCPC Request: broadcasting DHCP_DISCOVER 
+2017/01/01 00:00:01       BOOT WAPM-1266R Ver.1.05 (R3.01/B2012.07-1.00)

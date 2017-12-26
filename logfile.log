@@ -1,0 +1,72 @@
+################################################
+# This is the AirStation log File.
+# Host Name = AP84AFEC866D20
+# Model  = WAPM-1266R Ver1.05
+# LAN MAC  = 84:AF:EC:86:6D:20
+# Date  = 2017/12/01
+################################################
+
+2017/12/01 17:21:48   WIRELESS wl0.0 (5GHz): DisAssociated User - 1c:7b:21:22:03:b0
+2017/12/01 17:21:44   WIRELESS wl0.0 (5GHz): Associated User - 1c:7b:21:22:03:b0
+2017/12/01 17:21:33   WIRELESS wl0.0 (5GHz): DisAssociated User - 1c:7b:21:22:03:b0
+2017/12/01 17:21:29   WIRELESS wl0.0 (5GHz): Associated User - 1c:7b:21:22:03:b0
+2017/12/01 17:21:18   WIRELESS wl0.0 (5GHz): DisAssociated User - 1c:7b:21:22:03:b0
+2017/12/01 17:21:14   WIRELESS wl0.0 (5GHz): Associated User - 1c:7b:21:22:03:b0
+2017/12/01 17:21:03   WIRELESS wl0.0 (5GHz): DisAssociated User - 1c:7b:21:22:03:b0
+2017/12/01 17:20:59   WIRELESS wl0.0 (5GHz): Associated User - 1c:7b:21:22:03:b0
+2017/12/01 17:20:47   WIRELESS wl0.0 (5GHz): DisAssociated User - 1c:7b:21:22:03:b0
+2017/12/01 17:20:43   WIRELESS wl0.0 (5GHz): Associated User - 1c:7b:21:22:03:b0
+2017/12/01 17:20:31   WIRELESS wl0.0 (5GHz): DisAssociated User - 1c:7b:21:22:03:b0
+2017/12/01 17:20:27   WIRELESS wl0.0 (5GHz): Associated User - 1c:7b:21:22:03:b0
+2017/12/01 17:12:41  WIRED et0: link up(100 Mbps Full duplex)
+2017/12/01 17:12:41  WIRED et1: link down
+2017/12/01 17:02:37   AUTH wl0.0 (5GHz): Authenticated (WPA2-PSK) User - bc:5c:4c:92:5a:eb
+2017/12/01 17:02:37   WIRELESS wl0.0 (5GHz): Associated User - bc:5c:4c:92:5a:eb
+2017/12/01 16:57:52   AUTH wl1.0 (2.4GHz): Authenticated (WPA2-PSK) User - 3c:77:e6:3a:61:2e
+2017/12/01 16:57:52   WIRELESS wl1.0 (2.4GHz): Associated User - 3c:77:e6:3a:61:2e
+2017/12/01 16:57:51   WIRELESS wl1.0 (2.4GHz): DisAssociated User - 3c:77:e6:3a:61:2e
+2017/12/01 16:57:41   WIRELESS wl0.0 (5GHz): DisAssociated User - bc:5c:4c:92:5a:eb
+2017/12/01 16:54:23   AUTH wl0.0 (5GHz): Authenticated (WPA2-PSK) User - bc:5c:4c:92:5a:eb
+2017/12/01 16:54:22   WIRELESS wl0.0 (5GHz): Associated User - bc:5c:4c:92:5a:eb
+2017/12/01 16:34:58   AUTH wl1.0 (2.4GHz): Authenticated (WPA2-PSK) User - 3c:77:e6:3a:61:2e
+2017/12/01 16:34:58   WIRELESS wl1.0 (2.4GHz): Associated User - 3c:77:e6:3a:61:2e
+2017/12/01 16:33:18   WIRELESS wl1.0 (2.4GHz): DisAssociated User - 3c:77:e6:3a:61:2e
+2017/12/01 16:33:15   WIRELESS wl0.0 (5GHz): Encryption Key Renewing
+2017/12/01 16:32:57   WIRELESS wl1.0 (2.4GHz): Encryption Key Renewing
+2017/12/01 16:25:36   AUTH wl1.0 (2.4GHz): Authenticated (WPA2-PSK) User - 3c:77:e6:3a:61:2e
+2017/12/01 16:25:35   WIRELESS wl1.0 (2.4GHz): Associated User - 3c:77:e6:3a:61:2e
+2017/12/01 16:24:32   WIRELESS wl1.0 (2.4GHz): DisAssociated User - 3c:77:e6:3a:61:2e
+2017/12/01 16:21:59   AUTH wl1.0 (2.4GHz): Authenticated (WPA2-PSK) User - 3c:77:e6:3a:61:2e
+2017/12/01 16:21:58   WIRELESS wl1.0 (2.4GHz): Associated User - 3c:77:e6:3a:61:2e
+2017/12/01 16:15:31 USB Detect USB storage
+2017/12/01 16:15:21 USB Unplug USB storage
+2017/12/01 16:10:47   WIRELESS wl0.0 (5GHz): DisAssociated User - 1c:7b:21:22:03:b0
+2017/12/01 16:10:43   WIRELESS wl0.0 (5GHz): Associated User - 1c:7b:21:22:03:b0
+2017/12/01 16:10:32   WIRELESS wl0.0 (5GHz): DisAssociated User - 1c:7b:21:22:03:b0
+2017/12/01 16:10:28   WIRELESS wl0.0 (5GHz): Associated User - 1c:7b:21:22:03:b0
+2017/12/01 16:10:17   WIRELESS wl0.0 (5GHz): DisAssociated User - 1c:7b:21:22:03:b0
+2017/12/01 16:10:13   WIRELESS wl0.0 (5GHz): Associated User - 1c:7b:21:22:03:b0
+2017/12/01 16:10:02   WIRELESS wl0.0 (5GHz): DisAssociated User - 1c:7b:21:22:03:b0
+2017/12/01 16:09:58   WIRELESS wl0.0 (5GHz): Associated User - 1c:7b:21:22:03:b0
+2017/12/01 16:09:46   WIRELESS wl0.0 (5GHz): DisAssociated User - 1c:7b:21:22:03:b0
+2017/12/01 16:09:42   WIRELESS wl0.0 (5GHz): Associated User - 1c:7b:21:22:03:b0
+2017/12/01 16:09:35   WIRELESS wl0.0 (5GHz): DisAssociated User - 1c:7b:21:22:03:b0
+2017/12/01 16:09:31   WIRELESS wl0.0 (5GHz): Associated User - 1c:7b:21:22:03:b0
+2017/12/01 16:07:17   WIRELESS wl0.0 (5GHz): DisAssociated User - 1c:7b:21:22:03:b0
+2017/12/01 16:07:01   AUTH wl0.0 (5GHz): Authenticated (WPA2-PSK) User - 1c:7b:21:22:03:b0
+2017/12/01 16:07:01   WIRELESS wl0.0 (5GHz): Associated User - 1c:7b:21:22:03:b0
+2017/12/01 16:03:09  WIRED et1: link up(100 Mbps Full duplex)
+2017/12/01 16:03:05  WIRED et0: link down
+2017/12/01 16:01:36   AUTH wl0.0 (5GHz): Authenticated (WPA2-PSK) User - c4:85:08:84:ba:e8
+2017/12/01 16:01:36   WIRELESS wl0.0 (5GHz): Associated User - c4:85:08:84:ba:e8
+2017/12/01 16:01:36   WIRELESS wl0.0 (5GHz): DisAssociated User - c4:85:08:84:ba:e8
+2017/12/01 16:01:04   AUTH wl0.0 (5GHz): Authenticated (WPA2-PSK) User - c4:85:08:84:ba:e8
+2017/12/01 16:01:04   WIRELESS wl0.0 (5GHz): Associated User - c4:85:08:84:ba:e8
+2017/12/01 16:00:56   WIRELESS wl0.0 (5GHz): DisAssociated User - c4:85:08:84:ba:e8
+2017/12/01 15:58:33  WIRED et0: link up(100 Mbps Full duplex)
+2017/12/01 15:58:30  WIRED et0: link down
+2017/12/01 15:57:18   AUTH wl0.0 (5GHz): Authenticated (WPA2-PSK) User - c4:85:08:84:ba:e8
+2017/12/01 15:57:18   WIRELESS wl0.0 (5GHz): Associated User - c4:85:08:84:ba:e8
+2017/12/01 15:57:07   WIRELESS wl0.0 (5GHz): DisAssociated User - c4:85:08:84:ba:e8
+2017/12/01 15:56:40  CONFIGURE SYSLOG Forward
+2017/12/01 15:54:58 USB Detect USB storage
